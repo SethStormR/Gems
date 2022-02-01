@@ -5,7 +5,7 @@ Gems Icon Set is a spinoff of Royal Z and Papirus for Gnome, XFCE and Budgie. At
 Gems icon theme discussion: https://forum.zorin.com/t/gems-icon-theme/14974
 
 
-Gems - Citris (coming soon)
+Gems - Citrine (coming soon)
 --
 
 ![Screenshot from 2022-02-01 08-14-52](https://user-images.githubusercontent.com/60283532/151927556-2f3446fc-e3ca-46bd-9619-22b497dacfbb.png)
