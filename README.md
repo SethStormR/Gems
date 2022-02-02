@@ -7,7 +7,11 @@ Gems icon theme discussion: https://forum.zorin.com/t/gems-icon-theme/14974
 
 Gems - Amber (coming soon)
 --
-(No Screenshots)
+
+![Screenshot from 2022-02-02 15-26-36](https://user-images.githubusercontent.com/60283532/152173084-6e8112cc-f6f1-4ec0-b5bc-306b6178b965.png)
+
+![Screenshot from 2022-02-02 15-26-52](https://user-images.githubusercontent.com/60283532/152173110-34d1f344-e5e7-4ba9-b7c1-38829fcadd44.png)
+
 
 
 Gems - Citrine 
