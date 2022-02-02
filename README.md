@@ -4,6 +4,8 @@
 Gems Icon Set is a spinoff of Royal Z and Papirus for Gnome, XFCE and Budgie. At current state their are 4 colors: Citrine, Ruby, Emerald and Sapphire - But more will be added in a near future. Please request your favorite application(s) you think should be in the icon packs.
 Gems icon theme discussion: https://forum.zorin.com/t/gems-icon-theme/14974
 
+Recommended GTK theme: Orchis theme by vinceliuice - https://github.com/vinceliuice/Orchis-theme
+Recommended Gnome-shell: Shade of Z (glass) - https://github.com/SethStormR/Shade-of-Z---Desktop
 
 Gems - Amber
 --
